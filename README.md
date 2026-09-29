@@ -18,7 +18,6 @@ My public work is small and deliberate — a handful of repos I actually finishe
 | [`neo4ds`](neo4ds) | Notebooks for learning Neo4j graph data science — a beginner's path plus a Titanic knowledge-graph embedding demo |
 | [`networkx-neo4j`](networkx-neo4j) | ⭐ My fork of `neo4j-graph-analytics/networkx-neo4j`, a NetworkX API for Neo4j GDS. Contributions are merged upstream |
 | [`notes`](notes) | Data science scratch notebooks — vectorization, Jupyter tooling, Python language notes |
-| [`neetcode-submissions`](neetcode-submissions) | 68 Python solutions across the NeetCode Data Structures & Algorithms track |
 
 ## Toolkit
 
